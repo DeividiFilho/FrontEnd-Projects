@@ -1,3 +1,3 @@
 # FrontEnd-Projects
 
-Projetos com intuito de praticar Html, Css e JavaScript 
+Repositório criado para colocar projetos com intuito de praticar Html, Css e JavaScript !! 
